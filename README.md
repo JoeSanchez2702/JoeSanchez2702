@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoeSanchez2702
-- 👀 I’m interested in Azure, Python and Scala.
-- 🌱 I’m currently learning Azure Fundamentals and Scala.
+- 👀 I’m interested in Azure, Python and PySpark.
+- 🌱 I’m currently learning Azure Data Engineering, Databricks, and PySpark.
 - 💞️ I’m looking to collaborate on gaining knowledge and experience.
 - 📫 How to reach me joesanchez2702@gmail.com
 
